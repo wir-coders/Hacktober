@@ -49,8 +49,6 @@ Please check first and then send your codes with discription.
 
 **All the best for the event **
 
-**Get in touch** - https://www.linkedin.com/in/balkrishnaharode/
 
--Balkrishna Harode
 
 ### Show some ❤ by starring the repository.
