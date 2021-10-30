@@ -133,10 +133,10 @@ int main()
     {
         cin>>a[i];
     }
-    // bubblesort(a);
+     bubblesort(a);
     // selectionsort(a);
     // insertionsort(a);
-    mergesort(a , 0 ,a.size()-1);
+    //mergesort(a , 0 ,a.size()-1);
     display(a);
    return 0;
 }
