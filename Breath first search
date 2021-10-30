@@ -68,6 +68,7 @@ obj.addEdgeToGraph(3, 5);
 obj.addEdgeToGraph(3, 6);
 obj.addEdgeToGraph(4, 7);
 obj.addEdgeToGraph(4, 8);
+obj.addEdgeToGraph(4, 9);
 System.out.println("BFS of graph is:");
 obj.BFsearch(0);
 }
